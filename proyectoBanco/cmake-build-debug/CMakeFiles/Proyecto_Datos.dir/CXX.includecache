@@ -1,0 +1,76 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ArbolBinario.cpp
+ArbolBinario.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ArbolBinario.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ArbolBinario.h
+Nodo.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Nodo.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Cliente.cpp
+Cliente.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Cliente.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Cliente.h
+iostream
+-
+sstream
+-
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/HeapColaPrioridad.cpp
+HeapColaPrioridad.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/HeapColaPrioridad.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/HeapColaPrioridad.h
+ListaDoble.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ListaDoble.h
+ArbolBinario.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ArbolBinario.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ListaDoble.cpp
+ListaDoble.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ListaDoble.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ListaDoble.h
+Nodo.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Nodo.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Menu.cpp
+cstring
+-
+Menu.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Menu.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Menu.h
+ArbolBinario.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ArbolBinario.h
+HeapColaPrioridad.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/HeapColaPrioridad.h
+fstream
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/fstream
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Nodo.cpp
+Nodo.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Nodo.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Nodo.h
+iostream
+-
+sstream
+-
+Cliente.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Cliente.h
+
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/main.cpp
+iostream
+-
+Menu.h
+C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Menu.h
+

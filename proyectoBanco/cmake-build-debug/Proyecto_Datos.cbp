@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Proyecto_Datos"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Proyecto_Datos">
+				<Option output="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Proyecto_Datos.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto_Datos"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Proyecto_Datos/fast">
+				<Option output="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Proyecto_Datos.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 Proyecto_Datos/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/brian/Music/Knowledge of C++/proyectoBanco/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ArbolBinario.cpp">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ArbolBinario.h">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Cliente.cpp">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Cliente.h">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/HeapColaPrioridad.cpp">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/HeapColaPrioridad.h">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ListaDoble.cpp">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/ListaDoble.h">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Menu.cpp">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Menu.h">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Nodo.cpp">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/Nodo.h">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/main.cpp">
+			<Option target="Proyecto_Datos"/>
+		</Unit>
+		<Unit filename="C:/Users/brian/Music/Knowledge of C++/proyectoBanco/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
