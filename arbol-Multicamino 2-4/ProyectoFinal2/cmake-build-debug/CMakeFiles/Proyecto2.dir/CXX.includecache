@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/Menu.cpp
+Menu.h
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/Menu.h
+
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/Menu.h
+iostream
+-
+TwoFour.h
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/TwoFour.h
+cstdlib
+-
+exception
+-
+cstring
+-
+chrono
+-
+iostream
+-
+time.h
+-
+
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/Node.cpp
+Node.h
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/Node.h
+
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/Node.h
+iostream
+-
+sstream
+-
+NodeData.h
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/NodeData.h
+vector
+-
+
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/NodeData.h
+iostream
+-
+sstream
+-
+
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/TwoFour.cpp
+TwoFour.h
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/TwoFour.h
+
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/TwoFour.h
+Node.h
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/Node.h
+
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/main.cpp
+Menu.h
+C:/Users/brian/Music/Knowledge of C++/arbol-Multicamino 2-4/ProyectoFinal2/Menu.h
+
