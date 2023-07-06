@@ -1,0 +1,3 @@
+C:/Users/brian/Music/Knowledge of C++/juegoTorresHanoi/cmake-build-debug/CMakeFiles/EXAMEN_DATOS.dir
+C:/Users/brian/Music/Knowledge of C++/juegoTorresHanoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/brian/Music/Knowledge of C++/juegoTorresHanoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
